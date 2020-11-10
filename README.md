@@ -1,2 +1,1 @@
-This is the image processing pipeline I created using multiple neuroimaging processing software, including FSL, Afni, ANTS. 
-It's core is to use HTCondor to parallel process creating group templates. 
+This is the pipeline to estimate BOLD activity based on Mumford, 2012. LSS design to maximize trials related activity while regressing out nuisance signals. 
